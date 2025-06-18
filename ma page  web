@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+   <title> ESPOIR </title>
+   <img src="espoir.png" alt="espoir" width="100">
+   <a href="contact.html"
+    <button> contact </contact>
+   </a>
+
+    <a href="projets.html"
+     <button> Projets </button>
+    </a>
+  </head>
+  <body>
+   <h1> LE MAITRE DU CODE </h1>
+    <p>Je suis Espoir, enfant de NTEGEREJE pasionne de l'informatique. </p>
+    <p> J'ai etudie au COLLEGE MWANGA a partir de 2021 jusqu'en 2024. </p>
+    <p> Au COLLEGE je fait la commercial et gestion pour me donner l'idee de faire et suivre l'informatique. <p>
+    <p> Mon reve est de devenir l'un de plus grandes icones en informatique, generalement en matiere de IA, faire parler des machines et controler des robots et des drones ou autres machines, creer des Applications et jeux. </p>
+    <p> Merci d'avoir visiter mon site car c'est ma premiere, je sais que je ferais de plus que ca </p>
+  </body>
+ </html>
+    
+<!DOCTYPE html>
+ <html>
+  <head>
+   <title> MES PROJETS </title>
+   <a href="espoir.html"
+    <button> Accueil </button>
+   </a>
+  </head>
+  <body>
+   <h1> MES PROJETS </h1>
+    <p> 1: Devenir un programmeur professionnel </p>
+    <p> 2: Creer de plus grandes Applications du </p>
+    <p> 3: Et plusieurs autres choses concernant l'informatique <p>
+  </body>
+ </html>
+<!DOCTYPE html>
+ <html>
+  <head>
+   <title> contact </title>
+    <a href="espoir.html"
+     <button> Accueil </button>
+    </a>
+  </head>
+  <body>
+   <h1> Tu peut me contacter a partir de ca </h1>
+    <p> whatshapp: +243986136787 </p>
+    <p> Email: tumainiespoir@gmail.com </p>
+    <p> Telephone: +243986136787 ou +243859264615 </P>
+  </body>
+ </html>
+   
